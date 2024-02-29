@@ -1,4 +1,4 @@
-👋 Hi, I’m @SantiagoV0
+👋 Hi, I’m Santiago Vera
 
 - 🔭 I'm currently working as a informatic technical and Web Developer.
 - 🌱 I’ve recently learned React.js
